@@ -19,6 +19,10 @@ header {
   box-sizing: border-box;
 }
 
+header a img {
+  width: 300px;
+}
+
 header ul {
   display: flex;
 }
