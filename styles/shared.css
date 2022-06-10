@@ -19,15 +19,6 @@ header {
   box-sizing: border-box;
 }
 
-#page-logo a {
-  padding: 10px;
-  font-family: "Oleo Script", sans-serif;
-  color: rgb(245, 243, 160);
-  font-size: 50px;
-  text-decoration: none;
-  text-shadow: 1px 1px 2px rgb(0, 0, 0);
-}
-
 header ul {
   display: flex;
 }
@@ -36,7 +27,7 @@ header li {
   margin-left: 20px;
 }
 
-header a {
+header nav a {
   color: rgb(255, 251, 0);
   text-decoration: none;
   font-size: 20px;
@@ -45,7 +36,7 @@ header a {
   border-radius: 6px;
 }
 
-header a:hover {
+header nav a:hover {
   color: rgb(77, 77, 77);
   background-color: rgb(255, 251, 0);
 }
